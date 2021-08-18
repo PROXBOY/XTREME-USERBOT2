@@ -1,4 +1,4 @@
-# ARCEUS BOT
+# Skyler  BOT
 
 <p align="center">
 <img src="https://telegra.ph/file/00d83ccccfb983f76fa22.jpg" alt="ARCEUS BOT">
@@ -21,7 +21,7 @@
 ## Installing Heroku 
 
 ### The Easy Way
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/arceusbot/ArceusBot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/angad005/SKYLER)
 
 Take Sting session from Replit
 [![Run on Repl.it](https://repl.it/badge/github/spandey112/SensibleUserbot)](https://repl.it/@RahulNariyani/generatestring#main.py)
