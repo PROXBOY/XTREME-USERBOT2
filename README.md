@@ -1,7 +1,7 @@
 # Skyler  BOT
 
 <p align="center">
-<img src="https://telegra.ph/file/00d83ccccfb983f76fa22.jpg" alt="ARCEUS BOT">
+<img src="httpsg" alt="ARCEUS BOT">
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
