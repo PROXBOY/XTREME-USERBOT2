@@ -1,7 +1,7 @@
-FROM ARCEUS BOT/ARCEUS BOT:latest
+FROM XTREME BOT/XTREME BOT:latest
 
 #clonning repo 
-RUN git clone https://github.com/arceusbot/ArceusBot
+RUN git clone https://github.com/angad005/XTREME_USERBOT
 #working directory 
 WORKDIR /root/userbot
 
